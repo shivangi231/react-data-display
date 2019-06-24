@@ -17,4 +17,3 @@ Main Files used
 - src/App.js
 - src/App.css
 
-GitHub Demo Link - https://shivangi231.github.io/react-autofill/.
