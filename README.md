@@ -1,6 +1,7 @@
 React-DataDisplay
 
 Steps to run:
+  
   npm install
   
   npm run start
@@ -10,6 +11,7 @@ Steps to run:
 
 
 Brief description of basic Features:
+
 It uses api to fetch the data displayed
 
 It sorts the data in descending order of the popularity and displays title and price
